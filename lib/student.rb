@@ -10,8 +10,5 @@ class Student < User
     @knowledge << string 
   end 
   
-  def teach 
-    
-  end 
 
 end
